@@ -2,11 +2,10 @@
 A data analysis project for IndiGo Airlines' entry into the US market. This project identifies key factors influencing On-Time Arrival Rate (OTAR) using 2015 US flight data, providing data-driven strategies to maximize operational efficiency and punctuality.
 
 
-1. Project Title / Headline
-✈️ IndiGo OnTime Performance Dashboard: Maximizing Punctuality in the U.S. Market
+**1. Project Title / Headline:** ✈️ IndiGo OnTime Performance Dashboard: Maximizing Punctuality in the U.S. Market
 A comprehensive data analysis project that identifies key drivers of flight delays and provides actionable, databacked strategies to maximize the OnTime Arrival Rate (OTAR) for IndiGo's new U.S. operations.
 
-2. Short Description / Purpose
+**2. Short Description / Purpose**
 This project analyzes a massive dataset of over 5.8 million U.S. domestic flights from 2015 to uncover the root causes of delays and provide IndiGo with a clear roadmap for improving punctuality. The goal is to help IndiGo establish itself as a reliable and efficient airline in the highly competitive U.S. domestic market by focusing on operational excellence.
 
 3. Tech Stack
@@ -22,9 +21,7 @@ The analysis was built using a standard data science workflow:
  Dataset: `Flights_Dataset` containing 5.8 million records of U.S. domestic flights with 31 columns detailing schedules, delays, airports, and cancellation reasons.
 
  5. Features / Highlights
-
- Business Problem
-  IndiGo is entering the competitive U.S. aviation market, where factors like cascading delays, weather, and airport congestion can severely impact customer trust and operational reliability. To succeed, they must identify what causes delays and proactively fix them.
+ Business Problem: IndiGo is entering the competitive U.S. aviation market, where factors like cascading delays, weather, and airport congestion can severely impact customer trust and operational reliability. To succeed, they must identify what causes delays and proactively fix them.
 
  Goal of the Analysis
   To pinpoint the most significant factors affecting flight punctuality (OTAR) and provide a clear, datadriven action plan for IndiGo to minimize delays, improve efficiency, and build a reputation for reliability.
