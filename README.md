@@ -24,7 +24,7 @@ A comprehensive data analysis project that identifies key drivers of flight dela
  # Goal of the Analysis: 
  To pinpoint the most significant factors affecting flight punctuality (OTAR) and provide a clear, datadriven action plan for IndiGo to minimize delays, improve efficiency, and build a reputation for reliability.
 
- Walkthrough of Key Insights & Visuals
+# Walkthrough of Key Insights & Visuals
 
    Cascading Delays are Critical: A powerful scatter plot and Ttest proved that flights with a departure delay of 15+ minutes almost always lead to significant arrival delays. This is the single biggest lever for improving OTAR.
    Winter is the Biggest Weather Challenge: A boxplot and bar chart clearly showed that weatherrelated delays are significantly longer and more variable in winter compared to summer.
